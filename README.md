@@ -36,7 +36,19 @@ The system manages hotel operations including guests, rooms, reservations, servi
 
 
 ## 📸 Screenshots
-*(Screenshots available in `/docs` folder)*
+
+### 🔐 Login Screen
+![Login Screen](doc/login.png)
+
+### 📊 Admin Dashboard
+![Dashboard](doc/Admin_Dashboard.png)
+
+### 🛎️ Manage Reservations
+![Reservations](doc/Manage_Resrevation.png)
+
+### 🏨 Manage Rooms
+![Rooms](doc/Manage_Rooms.png)
+
 
 
 ## 🎯 Notes

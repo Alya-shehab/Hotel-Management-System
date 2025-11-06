@@ -32,7 +32,7 @@ The system manages hotel operations including guests, rooms, reservations, servi
 - MySQL DB Design (documented)
 
 
-## 📂 Project Structure
+
 
 
 ## 📸 Screenshots
